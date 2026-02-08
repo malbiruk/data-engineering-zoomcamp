@@ -60,3 +60,4 @@ terraform.rc
 
 data
 .env
+*.parquet
