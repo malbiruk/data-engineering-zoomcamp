@@ -58,6 +58,12 @@ terraform.rc
 # Uncomment the line below if you want to ignore planout files.
 # planout
 
+# dbt
+target/
+dbt_packages/
+logs/
+
 data
 .env
 *.parquet
+*.duckdb
