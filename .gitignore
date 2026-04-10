@@ -67,3 +67,9 @@ data
 .env
 *.parquet
 *.duckdb
+*.db
+
+.bruin.yml
+logs/runs
+logs/*.log
+*.py[cod]
